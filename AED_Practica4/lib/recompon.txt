@@ -1,0 +1,7 @@
+Este es el primer parrafo. Tiene varias oraciones en una sola linea. Como esta que ves aqui.
+
+Esta es una linea vacia arriba para probar el primer "if".
+En este segundo parrafo tenemos una palabra que se ha cor-
+tado al final del renglon para ver si el programa la junta.
+Y esta ultima oracion no tiene punto al finali-
+zamos este texto sin punto
